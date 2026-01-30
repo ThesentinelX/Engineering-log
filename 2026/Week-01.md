@@ -1,16 +1,16 @@
-# Week 01 — Engineering Log
+# 🛠 Week 01 — Engineering Log (Инженерный журнал — Неделя 01)
 
-## What I worked on
+## 🔧 What I worked on (Над чем я работал)
 - 
 
-## Networking / Systems
+## 🌐 Networking / Systems (Сети / Системы)
 - 
 
-## Learning
+## 📚 Learning (Обучение / Что изучил)
 - 
 
-## Problems / Fixes
+## 🐞 Problems / Fixes (Проблемы / Решения)
 - 
 
-## Notes
+## 📝 Notes (Заметки)
 -
